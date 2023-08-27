@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7247],{1626:e=>{e.exports=JSON.parse('{"label":"new software","permalink":"/blog/tags/new-software","allTagsPath":"/blog/tags","count":1}')}}]);
