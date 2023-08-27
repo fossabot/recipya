@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Recipya Blog</title>
-        <link>https://reaper47.github.io/blog</link>
+        <link>https://reaper47.github.io/recipya/blog</link>
         <description>Recipya Blog</description>
         <lastBuildDate>Sat, 26 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://reaper47.github.io/blog/welcome</link>
-            <guid>https://reaper47.github.io/blog/welcome</guid>
+            <link>https://reaper47.github.io/recipya/blog/welcome</link>
+            <guid>https://reaper47.github.io/recipya/blog/welcome</guid>
             <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[I am thrilled to present the official website for Recipya! This recipe manager project is focused on simplicity and]]></description>
             <content:encoded><![CDATA[<p>I am thrilled to present the official website for Recipya! This recipe manager project is focused on simplicity and
@@ -22,9 +22,9 @@ written in my favorite programming language, <a href="https://go.dev" target="_b
 (no pun intended) and create one of the best recipe manager programs out there. The road ahead will be challenging and
 long because the other solutions are much more mature than the state Recipya is in now. However, I do believe the
 effort will pay off.</p><p>Thanks to Go, you can rest assured that the software is well-tested, solid, easy to read and maintain, and simple to
-build and install. Development should be straightforward. Please read the <a href="/docs/category/development">developer guide</a>
+build and install. Development should be straightforward. Please read the <a href="/recipya/docs/category/development">developer guide</a>
 if you wish to contribute with code.</p><p>Today's main goal for the project is to move towards the v1.0.0 milestone. The issues left to complete before
-celebrating the first official release on <a href="https://github.com/reaper47/recipya/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.0.0" target="_blank" rel="noopener noreferrer">GitHub</a>.</p><p>Thank you for reading! If you believe in this project, then feel free to lend a hand. The <a href="/community-guide">community guide</a>
+celebrating the first official release on <a href="https://github.com/reaper47/recipya/issues?q=is%3Aopen+is%3Aissue+milestone%3Av1.0.0" target="_blank" rel="noopener noreferrer">GitHub</a>.</p><p>Thank you for reading! If you believe in this project, then feel free to lend a hand. The <a href="/recipya/community-guide">community guide</a>
 explains how you can help. You are not required to know how to code 😊</p>]]></content:encoded>
             <category>recipya</category>
             <category>welcome</category>
